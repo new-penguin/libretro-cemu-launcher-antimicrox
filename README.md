@@ -1,5 +1,6 @@
 # libretro-cemu-launcher
 
+![Cemu](https://github.com/new-penguin/libretro-cemu-launcher-antimicrox/assets/139792946/e27bf9fe-7394-4ec1-983f-2326ae759cc2)
 
 
 Based on [libretro-dolphin-launcher](https://github.com/RobLoach/libretro-dolphin-launcher) and [libretro-PCSX2-launcher](https://github.com/eduardomozart/libretro-pcsx2-launcher). 
